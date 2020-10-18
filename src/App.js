@@ -61,7 +61,8 @@ export default () => {
             </section>
 
             <footer>
-                Feito Com <span role="img" aria-label="coração"></span>
+                Copyright © 2020 all credits to Netflix by Gabriel De Morais
+                Lacerda. <span role="img" aria-label="coração"></span>
             </footer>
             {movieList <= 0 && (
                 <div className="loading">
